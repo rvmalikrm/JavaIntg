@@ -12,8 +12,8 @@ public class UtilExcel {
     // Row and Cell
     // 2D Object - getData()
 
-    static Workbook book;
-    static Sheet sheet;
-    public static String SHEET();
+//    static Workbook book;
+//    static Sheet sheet;
+//    public static String SHEET();
 
 }
